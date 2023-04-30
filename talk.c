@@ -7,7 +7,7 @@
 // - function where program starts
 // - only one main may exist
 int main() {
-	printf("Talk to a teacher\n");
-	printf("Welcome\n");
+	printf("Talk to a teacher\n")
+	;printf("Welcome\n");
 	return 0;
 }
