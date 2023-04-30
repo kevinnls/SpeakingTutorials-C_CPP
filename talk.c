@@ -8,6 +8,6 @@
 // - only one main may exist
 int main() {
 	printf("Talk to a teacher\n");
-	return 0;
 	printf("Welcome\n");
+	return 0;
 }
